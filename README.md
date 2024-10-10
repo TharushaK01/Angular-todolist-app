@@ -62,10 +62,8 @@ src/
  ┗ styles.css
 ```
 
-## 📸 Screenshots
-| Main Interface         | Add Task Modal          | Task Filtering        |
-|------------------------|-------------------------|-----------------------|
-| ![Main](screenshot1.png) | ![Add Task](screenshot2.png) | ![Filter](screenshot3.png) |
+## 📸 Video
+<video src='AngularTodo.ts' width=180/>
 
 ## 🛠️ Future Improvements
 - **Task Due Dates**: Option to set deadlines for tasks.
