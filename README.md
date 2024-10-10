@@ -63,7 +63,9 @@ src/
 ```
 
 ## 📸 Video
-<video src='AngularTodo.mp4' width=180/>
+
+https://github.com/user-attachments/assets/3a59a1dd-e8ae-437b-95fa-966e505fd33a
+
 
 ## 🛠️ Future Improvements
 - **Task Due Dates**: Option to set deadlines for tasks.
